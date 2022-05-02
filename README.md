@@ -1,1 +1,1 @@
-### Rust programming
+### [Rust programming](https://doc.rust-lang.org/book/)
